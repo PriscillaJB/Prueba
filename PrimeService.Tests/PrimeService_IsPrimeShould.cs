@@ -1,15 +1,16 @@
+using System;
 using NUnit.Framework;
 using Prime.Services;
+using NUnit;
 
 namespace Prime.UnitTests.Services
 {
     [TestFixture]
     public class PrimeService_IsPrimeShould
     {
-        private PrimeService _primeService;
+         private readonly PrimeService _primeService;
 
-        [SetUp]
-        public void SetUp()
+        public PrimeService_IsPrimeShould()
         {
             _primeService = new PrimeService();
         }
