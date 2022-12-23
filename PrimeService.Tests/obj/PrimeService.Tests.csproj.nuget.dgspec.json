@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
+    "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {
+    "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "projectName": "PrimeService.Tests",
-        "projectPath": "C:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectPath": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "packagesPath": "C:\\Users\\ana.jimenez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\obj\\",
+        "outputPath": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.jimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
-                "projectPath": "C:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj"
+              "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
+                "projectPath": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
+    "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "C:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+        "projectPath": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\ana.jimenez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\obj\\",
+        "outputPath": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.jimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
