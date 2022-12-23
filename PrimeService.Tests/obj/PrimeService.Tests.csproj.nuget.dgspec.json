@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
+    "C:\\Users\\Pris\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {
+    "C:\\Users\\Pris\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Pris\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "projectName": "PrimeService.Tests",
-        "projectPath": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
-        "packagesPath": "C:\\Users\\ana.jimenez\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\obj\\",
+        "projectPath": "C:\\Users\\Pris\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "packagesPath": "C:\\Users\\Pris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pris\\Desktop\\unit-testing-using-nunit\\PrimeService.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ana.jimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,11 +25,10 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net60": {
             "projectReferences": {
-              "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
-                "projectPath": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj"
+              "C:\\Users\\Pris\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
+                "projectPath": "C:\\Users\\Pris\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj"
               }
             }
           }
@@ -41,8 +40,7 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net60": {
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -65,37 +63,21 @@
               "version": "[3.1.2, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
+    "C:\\Users\\Pris\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "C:\\Users\\Pris\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
-        "packagesPath": "C:\\Users\\ana.jimenez\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ana.jimenez\\Desktop\\unit-testing-using-nunit\\PrimeService\\obj\\",
+        "projectPath": "C:\\Users\\Pris\\Desktop\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+        "packagesPath": "C:\\Users\\Pris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pris\\Desktop\\unit-testing-using-nunit\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ana.jimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,8 +88,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net60": {
             "projectReferences": {}
           }
         },
@@ -118,25 +99,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "net60": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
